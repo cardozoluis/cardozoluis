@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👨🏾‍💻 LUIS OTÁVIO PEREIRA CARDOZO 
 
-<!--
-**cardozoluis/cardozoluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋
 
-Here are some ideas to get you started:
+Sou engenheiro químico com experiência em qualidade, processos e ambiente regulado,
+em transição para a área de **Análise de Dados / BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 OBJETIVO
+Atuar como **Analista de Dados**, aplicando dados para suporte à decisão, 
+melhoria de processos e gestão de indicadores.
+
+## 🔎 Áreas de Especialização
+
+- Indicadores de Qualidade (KPIs)
+- Análise de Não Conformidades
+- Gestão de Riscos
+- CAPA e eficácia
+- Análise exploratória de dados
+- Modelagem e visualização de dados
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luisotaviocardozo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardozoluis@live.com)
